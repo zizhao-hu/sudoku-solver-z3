@@ -1,8 +1,8 @@
 # sudoku-solver-z3
 A simple z-3 sudoku solver
 
-An example input format:\\
-   2857  \\
+An example input format:\newline
+   2857  \newline
  193     \\
  8   1 6 \\
  45 6    \\
